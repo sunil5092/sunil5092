@@ -17,7 +17,7 @@ AI job-review analyzer using RoBERTa and BART transformers — FastAPI backend w
 Real-time stock and financial news ETL pipeline — PostgreSQL storage, APScheduler jobs, and a React dashboard.
 
 ### [Student Management System](https://github.com/sunil5092/student-management-system-backend)
-Production-style FastAPI + PostgreSQL REST API with JWT authentication, SQLAlchemy, and pagination.
+Production-style FastAPI + PostgreSQL REST API — full CRUD with SQLAlchemy, pagination, and filtering.
 
 Explore the rest of my repositories below for more ML and data-engineering work.
 
